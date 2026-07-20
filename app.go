@@ -15,7 +15,7 @@ import (
 	"golang.org/x/sys/windows/registry"
 )
 
-const appVersion = "1.0.0"
+const appVersion = "1.0.1"
 
 //go:embed payload.zip
 var payloadData embed.FS
